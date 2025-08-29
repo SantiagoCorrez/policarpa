@@ -45,7 +45,7 @@ h1 {
     align-items: center;
     font-size: 16px;
     margin: 0 auto;
-    width: 50%;
+    width: 100%;
 }
 
 .header {
@@ -280,7 +280,7 @@ button {
 #video-wrapper {
     position: relative;
     width: 100%;
-    aspect-ratio: 9 / 9;
+    aspect-ratio: 19 / 9;
     overflow: hidden;
     background-size: contain;
     background-repeat: no-repeat;
